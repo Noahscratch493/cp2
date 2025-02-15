@@ -12,7 +12,7 @@ Control Panel 2 is a modern control panel for managing your computer's system se
 
 To install **Control Panel 2**, simply follow the steps below:
 
-1. Download the latest version of the control panel by clicking the **Download Now** button on the website or use the [direct download link](https://www.dropbox.com/scl/fi/kagp7w7mhb0oa00ndf5pj/cp2.7z?rlkey=m3l36mwpqoa39wuq17cyvph09&st=gpbrhwok&dl=1)
+1. Download the latest version of the control panel by clicking the **Download Now** button on the website or use the [direct download link](https://www.dropbox.com/scl/fi/bbpn997blqyw4yynwt8kj/cp2.7z?rlkey=vgtlq2dri00ey5fz1c227hnkv&st=rlhzb9ya&dl=1)
 2. Extract the downloaded file (if applicable) and open the control panel application.
 3. Launch the application to access the settings.
 
